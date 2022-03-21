@@ -4,3 +4,4 @@
 1. [JS: массивы, объекты, DOM](labs/lab2.md)
 1. [JS: события и формы](labs/lab3.md)
 1. [JS: async, fetch](labs/lab4.md)
+1. [Проектирование БД и интерфейса](labs/lab5.md)
