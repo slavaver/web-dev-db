@@ -6,3 +6,4 @@
 1. [JS: async, fetch](labs/lab4.md)
 1. [Проектирование БД и интерфейса](labs/lab5.md)
 1. [Знакомство с NodeJS](labs/lab6.md)
+1. [Знакомство с Express](labs/lab7.md)
