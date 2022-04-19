@@ -8,3 +8,4 @@
 1. [Знакомство с NodeJS](labs/lab6.md)
 1. [Знакомство с Express](labs/lab7.md)
 1. [Обработка данных из формы](labs/lab8.md)
+1. [Создание БД](labs/lab9.md)
