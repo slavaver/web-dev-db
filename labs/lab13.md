@@ -14,5 +14,6 @@
 
 ## Источники
 
+1. [Пример](https://github.com/slavaver/threejs-example)
 1. [Введение в 3D: основы Three.js](https://habr.com/ru/post/494810/)
 1. [Документация Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
